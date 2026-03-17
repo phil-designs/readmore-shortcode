@@ -1,0 +1,11 @@
+/* Readmore Shortcode – toggle link styling */
+
+[data-readmore-toggle] {
+    display: block;
+    width: 100%;
+    cursor: pointer;
+}
+
+.readmore-shortcode-wrap + [data-readmore-toggle] {
+    margin-top: 0.5em;
+}
