@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Lightweight Readmore Shortcode
- * Plugin URI:  http://www.phildesigns.com
+ * Plugin URI:  https://www.phildesigns.com
  * Description: Wrap any visual editor content in [readmore] to collapse/expand it with "Read More" / "Close" links. Supports multiple instances per page.
  * Version:     1.0.0
  * Author:      phil.designs | Phillip De Vita
